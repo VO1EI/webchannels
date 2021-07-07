@@ -9,15 +9,25 @@
     <meta content="" name="author">
     <meta name="csrf-token" content="tL0YXw0qr8OsNxbkASKoPlG0oS0yrDjanSALBzw5">
     <style type="text/css">
-    body,td,th {
-	color: #D4D4D4;
+body, td, th {
+  color: #d4d4d4;
 }
-    body {
-	background-color: #6C6C6C;
+
+body {
+  background-color: #6c6c6c;
 }
-    </style>
-  </head>
-  <body>
+
+#body {
+  background-color: #929291;
+  background-image: url("paper-1468883_1920.jpg");
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+</style> </head>
+  <body id="body"><img src="Untitled-1.png" alt="" style="width: 379px; height: 66px;">
     <div class="table-inner">
       <div style="float:left;">
         <table>
@@ -27,7 +37,7 @@
           </thead>
         </table>
         <h1></h1>
-        <table border="5">
+        <table border="1">
           <thead>
             <tr class="nohover">
               <th><br>
@@ -68,42 +78,41 @@
           </thead>
           <tbody>
             <tr>
-              <td class="source fixed-column" height="36">
+              <td class="source fixed-column">
                 <p><img src="logog.png" alt="" style="width: 246px; height: 165px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM"
+              <td class="codec-aac"><audio preload="none" controls="controls"> <source
+                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM">
                   <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM">
                 </audio></td>
-              <td class="codec-aac" height="36"><audio preload="none"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM-2">
+              <td class="codec-aac"><audio preload="none"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM-2">
                   <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM-MP3-2">
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CKNXAM-2">
                 </audio></td>
-              <td class="codec-aac">
-                <p><img src="kiss925.png" alt="" style="width: 192px; height: 160px;"></p>
+              <td class="codec-aac" style="height: 237.5px; width: 357px;">
+                <p><img src="kiss925.png" alt="" style="width: 192px; height: 160px;"
+                    id="6665"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://rogers-hls.leanstream.co/rogers/tor925.stream/icy?environment=tunein&amp;args=tunein_01"
+              <td class="codec-aac" style="width: 285px;"><audio preload="none"
+                  controls="controls"> <source src="https://rogers-hls.leanstream.co/rogers/tor925.stream/icy?environment=tunein&amp;args=tunein_01"
                     type="audio/"> <source src="https://rogers-hls.leanstream.co/rogers/tor925.stream/icy?environment=tunein&amp;args=tunein_01">
                 </audio></td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">
+              <td class="source fixed-column" style="height: 178.5px;">
                 <p><img src="cfcw829x300.png" alt="" style="width: 303px; height: 106px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM"
+              <td class="codec-aac"><audio preload="none" controls="controls"> <source
+                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM-MP3">
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CFCWAM">
                 </audio></td>
-              <td class="codec-aac" height="36"><audio preload="none"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM-2"
+              <td class="codec-aac"><audio preload="none"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM-2"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCWAM-MP3-2">
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CFCWAM-2">
                 </audio></td>
@@ -122,15 +131,15 @@
                 </audio></td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">
+              <td class="source fixed-column" style="height: 195.5px;">
                 <p><img src="1200px-CKNB_Radio_Logo.svg.png" alt="" style="width: 289px; height: 123px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNBAM-MP3"
+              <td class="codec-aac"><audio preload="none" controls="controls"> <source
+                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNBAM-MP3"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNBAM-MP3">
                 </audio></td>
-              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">
                 <p><img src="am1140.png" alt="" style="width: 249px; height: 78px;"></p>
                 <p>&nbsp;</p>
