@@ -339,7 +339,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="fbShare%20%281%29.png" alt="" height="116" width="250"></p>
+                <p><img src="fbShare%20%281%29.png" alt="" style="width: 293px; height: 135px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio src="https://lax-master1-entry2.leanstream-hd.com:2113/CKULFM"
