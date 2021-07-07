@@ -26,8 +26,15 @@ body {
   background-repeat: no-repeat;
 }
 
+#topstuff {
+  clear: none;
+  position: static;
+  float: none;
+}
+
 </style> </head>
-  <body id="body"><img src="Untitled-1.png" alt="" style="width: 647px; height: 111px;">
+  <body id="body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Untitled-1.png" alt="" style="width: 647px; height: 111px;" id="topstuff">
     <div class="table-inner">
       <div style="float:left;">
         <table>
@@ -332,26 +339,23 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="ched.png" alt="" style="width: 160px; height: 155px;"></p>
+                <p><img src="fbShare%20%281%29.png" alt="" height="116" width="250"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHEDAM">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHEDAM-MP3">
-                  <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CHEDAM">
-                </audio></td>
+              <td class="codec-aac" height="36"><audio src="https://lax-master1-entry2.leanstream-hd.com:2113/CKULFM"
+                  preload="none" controls="controls"></audio><br>
+              </td>
               <td class="codec-aac" height="36"><audio preload="none"> <source
                     src="https://lax-master1-entry2.leanstream-hd.com:2113/CHEDAM-MP3"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHEDAM-2">
                   <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHEDAM-MP3-2">
                 </audio></td>
-              <td class="codec-aac">
-                <p><img src="s164665g.png" alt="" style="width: 188px; height: 159px;"></p>
+              <td class="codec-aac"> <img src="herolog963.png" alt="" style="width: 285px; height: 134px;">
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="http://142.4.217.133:8458/stream" type="audio/"> <source
-                    src="http://142.4.217.133:8458/stream"> </audio></td>
+              <td class="codec-aac"><audio src="https://lax-master1-entry2.leanstream-hd.com:2113/CKRAFM"
+                  preload="none" controls="controls"></audio><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -381,14 +385,19 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="fbShare%20%281%29.png" alt="" height="116" width="250"></p>
-                <p>&nbsp;</p>
+                <p></p>
+                <p>&nbsp;<img src="ched.png" alt="" style="width: 160px; height: 155px;"></p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKULFM"
-                    type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKULFM-MP3">
-                  <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CKULFM">
-                </audio></td>
+              <td class="codec-aac" height="36">
+                <table border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac" height="36"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36"><audio preload="none"> <source
                     src="https://lax-master1-entry2.leanstream-hd.com:2113/CKULFM-MP3"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKULFM-2">
