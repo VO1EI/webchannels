@@ -761,7 +761,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://s7.myradiostream.com:59221/listen.mp3?0.0367213213904094&amp;amp;starttime=1625520591">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -777,7 +778,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFOXFM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -794,7 +796,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://rogers-hls.leanstream.co/rogers/for933.stream/icy?environment=tunein&amp;amp;args=tunein_01">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -810,7 +813,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHTNFM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -826,7 +830,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&amp;amp;args=tunein_01">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -841,7 +846,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJYQAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -857,7 +863,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="http://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAM.mp3">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -873,7 +880,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFRQFM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -889,7 +897,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="http://17603.live.streamtheworld.com/CKLWAM_SC">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -905,7 +914,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHNLAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -920,7 +930,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKDQAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -936,7 +947,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CIJKFM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -954,7 +966,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="http://stream01048.westreamradio.com/wsm-am-mp3">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -965,13 +978,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/VOWR.svg" style="width: 210px; height: 210px;"><br>
-              </td>
+                <img src="svg/VOWR.svg" style="width: 210px; height: 210px;"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="http://playerservices.streamtheworld.com/api/livestream-redirect/VOWRAM.mp3">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -981,13 +994,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/Citynews-radio_ottawa.svg.svg" style="width: 275px; height: 99px;"><br>
-              </td>
+                <img src="svg/Citynews-radio_ottawa.svg.svg" style="width: 275px; height: 99px;"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&amp;amp;args=tunein_01">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -997,14 +1010,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/rbi_logo_big.svg" style="width: 257px; height: 144px;"><br>
-              </td>
+                <img src="svg/rbi_logo_big.svg" style="width: 257px; height: 144px;"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
-                        </audio></td>
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://ca5ssl.rcast.net/stream/61138.mp3"> </audio></td>
                     </tr>
                   </tbody>
                 </table>
@@ -1028,13 +1040,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/CFSX870_localnewsnow_logo.svg" height="103" width="236"><br>
-              </td>
+                <img src="svg/CFSX870_localnewsnow_logo.svg" height="103" width="236"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1044,13 +1056,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;<img src="svg/CFCB_VOAM_Radio_Logo.svg"
-                  height="116" width="313"><br>
-              </td>
+                  height="116" width="313"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFCBAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1060,13 +1072,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp; <img src="svg/bigland.svg"
-                  height="107" width="291"><br>
-              </td>
+                  height="107" width="291"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFLNFM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1076,13 +1088,13 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/CHFI.svg" style="width: 191px; height: 179px;"><br>
-              </td>
+                <img src="svg/CHFI.svg" style="width: 191px; height: 179px;"></td>
               <td class="codec-aac" height="36">&nbsp;
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="auto" controls="controls">
+                      <td class="codec-aac"><audio preload="auto" controls="controls"
+                          src="https://rogers-hls.leanstream.co/rogers/tor981.stream/icy?environment=tunein&amp;amp;args=tunein_01">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1097,7 +1109,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://15693.live.streamtheworld.com/CKFMFM.mp3?DIST=TuneIn&amp;amp;TGT=TuneIn&amp;amp;maxServers=2&amp;amp;gdpr=0&amp;amp;us_privacy=1YNY&amp;amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyNTQ5NjU2MiwiaXNzIjoidGlzcnYifQ.8Vjox-2kJlr005306iqu6lZ0-cOkV1KX9JL3OKZnlTw">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1113,7 +1126,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://19293.live.streamtheworld.com/CHUMFM.mp3?DIST=TuneIn&amp;amp;TGT=TuneIn&amp;amp;maxServers=2&amp;amp;gdpr=0&amp;amp;us_privacy=1YNY&amp;amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyNTQ5NjY1NiwiaXNzIjoidGlzcnYifQ.P86xUXdXh3nLcecjZ14wUiHJ2PDfZBL-n4Q-u7Q4aFw">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1131,7 +1145,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJCWAM-MP3">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1141,14 +1156,13 @@ body {
               </td>
             </tr>
             <tr>
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="svg/am1140.svg" style="width: 303px; height: 94px;"><br>
-                <br>
-              </td>
+              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="svg/am1140.svg" style="width: 303px; height: 94px;"></td>
               <td>
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHRBAM">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1160,14 +1174,13 @@ body {
             <tr>
               <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <img src="svg/CKLW_AM.svg" style="width: 260px; height: 98px;">
-                <br>
-                <br>
               </td>
               <td>
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="http://17603.live.streamtheworld.com/CKLWAM_SC">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1184,7 +1197,8 @@ body {
                 <table id="table" border="0">
                   <tbody>
                     <tr>
-                      <td class="codec-aac"><audio preload="none" controls="controls">
+                      <td class="codec-aac"><audio preload="none" controls="controls"
+                          src="https://rogers-hls.leanstream.co/rogers/tor925.stream/icy?environment=tunein&amp;amp;args=tunein_01">
                         </audio></td>
                     </tr>
                   </tbody>
@@ -1205,8 +1219,7 @@ body {
             </tr>
             <tr>
               <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="svg/1200px-CBC_Radio_Logo.svg.svg" alt="" style="width: 210px; height: 257px;"><br>
-              </td>
+                <img src="svg/1200px-CBC_Radio_Logo.svg.svg" alt="" style="width: 210px; height: 257px;"></td>
               <td><audio src="http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_snf"
                   preload="none" controls="controls"></audio><br>
               </td>
@@ -1241,8 +1254,8 @@ body {
               </td>
             </tr>
             <tr>
-              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="svg/s12182q.svg"
-                  alt="" style="width: 308px; height: 308px;"></td>
+              <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="svg/6785f5108e923b5da3d0ef4773332052.svg"
+                  style="width: 308px; height: 308px;"></td>
               <td><audio src="http://cassini.shoutca.st:8215/stream" preload="none"
                   controls="controls"></audio><br>
               </td>
@@ -1306,8 +1319,7 @@ body {
               </td>
             </tr>
             <tr>
-              <td>&nbsp;<img src="svg/hero_logo-5cde46bd48c77.svg" alt="" style="width: 310px; height: 162px;"><br>
-              </td>
+              <td>&nbsp;<img src="svg/hero_logo-5cde46bd48c77.svg" alt="" style="width: 310px; height: 162px;"></td>
               <td><audio src="https://icy.jpbgdigital.com/CKQQ.aac?player_type=tunein"
                   preload="none" controls="controls"></audio><br>
               </td>
