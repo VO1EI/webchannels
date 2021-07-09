@@ -38,7 +38,7 @@ body {
 
 </style> </head>
   <body id="body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="Untitled-1.png" alt="" style="width: 647px; height: 111px;" id="topstuff">
+    <br>
     <div class="table-inner">
       <div style="float:left;">
         <table>
@@ -163,20 +163,19 @@ body {
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">
+              <td class="source fixed-column">
                 <p><img src="1270cjcb.png" alt="" style="width: 213px; height: 123px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36"><audio preload="none" controls="controls">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJCBAM-MP3"
+              <td class="codec-aac"><audio preload="none" controls="controls"> <source
+                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJCBAM-MP3"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJCBAM-MP3">
                 </audio></td>
-              <td class="codec-aac" height="36"><audio preload="none"> <source
-                    src="https://lax-master1-entry2.leanstream-hd.com:2113/CJCBAM-MP3"
+              <td class="codec-aac"><audio preload="none"> <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CJCBAM-MP3"
                     type="audio/"> <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CJCBAM-MP3">
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CJCBAM-MP3">
                 </audio></td>
-              <td class="codec-aac">
+              <td class="codec-aac" style="height: 195.5px;">
                 <p><img src="CJCW_590_logo.png" alt="" style="width: 252px; height: 121px;"></p>
                 <p>&nbsp;</p>
               </td>
@@ -192,7 +191,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36"><img src="New_AVR_Long.png"
-                  alt="" style="width: 255px; height: 117px;"><br>
+                  alt="" style="width: 303px; height: 139px;"><br>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio preload="none" controls="controls">
@@ -561,13 +560,12 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/VOCMFM-2">
                 </audio></td>
               <td class="codec-aac">
-                <p><img src="radio_am580.png" alt="" height="108" width="269"></p>
+                <p><br>
+                </p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="http://17603.live.streamtheworld.com/CKLWAM_SC"> <source
-                    src="http://17603.live.streamtheworld.com/CKLWAM_SC"> <source
-                    src="http://17603.live.streamtheworld.com/CKLWAM_SC"> </audio></td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -586,14 +584,12 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CFMJAM-MP3-2">
                 </audio></td>
               <td class="codec-aac">
-                <p><img src="q104_stingrayradio-240x182-logo.png" alt="" style="width: 222px; height: 168px;"></p>
+                <p><br>
+                </p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFRQFM"
-                    type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFRQFM-MP3">
-                  <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CFRQFM">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -612,14 +608,12 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CJOBAM-2">
                 </audio></td>
               <td class="codec-aac">
-                <p><img src="Newstalk_1010.png" alt="" style="width: 223px; height: 130px;"></p>
+                <p><br>
+                </p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="http://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAM.mp3"
-                    type="audio/mp3"> <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAM.mp3"
-                    type="audio/mp3"> <source src="http://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAM.mp3"
-                    type="audio/mp3"> </audio></td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -639,15 +633,12 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CHVOFM-MP3">
                 </audio></td>
               <td class="codec-aac">
-                <p><img src="nc930defaultalbumlogo350x350.1619752832.png" alt=""
-                    style="width: 279px; height: 234px;"></p>
+                <p><br>
+                </p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJYQAM"
-                    type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CJYQAM-MP3">
-                  <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CJYQAM">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -661,12 +652,10 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CFXLFM">
                 </audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac"><img src="News957_600x600.png" alt="" style="width: 207px; height: 171px;"></td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&amp;args=tunein_01">
-                  <source src="https://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&amp;args=tunein_01">
-                  <source src="https://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&amp;args=tunein_01">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -680,12 +669,10 @@ body {
                   <source src="https://lax-master1-entry2.leanstream-hd.com:2113/CKJRAM">
                 </audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac"><img src="oceanherologo2018.png" alt="" style="width: 357px; height: 126px;"></td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHTNFM">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHTNFM-MP3">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CHTNFM-MP3">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -699,12 +686,10 @@ body {
                   <source src="https://rogers-hls.leanstream.co/rogers/for933.stream/icy?environment=tunein&amp;args=tunein_01">
                 </audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac"><img src="fbShare%20%287%29.png" alt="" style="width: 380px; height: 171px;"></td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://rogers-hls.leanstream.co/rogers/for933.stream/icy?environment=tunein&amp;args=tunein_01">
-                  <source src="https://rogers-hls.leanstream.co/rogers/for933.stream/icy?environment=tunein&amp;args=tunein_01">
-                  <source src="https://rogers-hls.leanstream.co/rogers/for933.stream/icy?environment=tunein&amp;args=tunein_01">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -716,12 +701,10 @@ body {
                   <source src="https://s1.hotdogradio.com/CKNR"> <source src="https://s1.hotdogradio.com/CKNR">
                   <source src="http://listenlive.vistaradio.ca/CFLD"> </audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac"><img src="cfox-header-1.png" alt="" style="width: 309px; height: 138px;"></td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFOXFM">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFOXFM-MP3">
-                  <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFOXFM-2">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -735,12 +718,10 @@ body {
                   <source src="https://ice7.securenetsystems.net/CIRR?playSessionID=EEBB5B15-FDC2-298C-A501261844FA30AE">
                 </audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac"><img src="download%20%283%29.png" alt="" style="width: 182px; height: 182px;"></td>
-              <td class="codec-aac"><audio preload="none" controls="controls"> <source
-                    src="https://s7.myradiostream.com:59221/listen.mp3?0.0367213213904094&amp;starttime=1625520591">
-                  <source src="https://s7.myradiostream.com:59221/listen.mp3?0.0367213213904094&amp;starttime=1625520591">
-                  <source src="https://s7.myradiostream.com:59221/listen.mp3?0.0367213213904094&amp;starttime=1625520591">
-                </audio></td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -751,10 +732,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="http://corus.leanstream.co/CHQRAM-MP3?tunein"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="CKBX_country840am_logo.png"
-                  alt="" style="width: 283px; height: 122px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="http://listenlive.vistaradio.ca/CKBX"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -765,23 +744,20 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&amp;args=tunein_01"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="logo_radio_london_980.png" alt=""
-                  style="width: 282px; height: 141px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="http://corus.leanstream.co/CFPLAM-MP3"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p>&nbsp;<img src="logo_radio_vancouver_980.png" alt="" style="width: 324px; height: 162px;"></p>
+                <p>&nbsp;<img src="logo_radio_vancouver_980.png" alt="" style="width: 358px; height: 179px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36">&nbsp;<audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNWAM"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="radio_cjad.png" alt="" style="width: 177px; height: 188px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="https://18123.live.streamtheworld.com/CJADAM_SC?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=0&amp;us_privacy=1YNY&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyNTU3NTQ3NCwiaXNzIjoidGlzcnYifQ._ic2T_F-17zOpNT3hkIuvsQWbJkknrK2fevomNW4aT0"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -792,10 +768,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="http://ckrw.streamon.fm:8000/CKRW-32k.aac"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="TrueNorth-Main-RGB.png" alt=""
-                  style="width: 266px; height: 49px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="https://listenlive.vistaradio.ca/CJCD"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -806,10 +780,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFMCFM"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="Uwd1hK0p_400x400.png" alt=""
-                  style="width: 221px; height: 221px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1625575029&amp;e=1625589429&amp;h=9db027a62d4c0b17dc0ad228368d2a20"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -820,9 +792,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="https://c11.radioboss.fm:18134/stream"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="CFCY.png" alt="" style="width: 291px; height: 166px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="http://mbsradio.leanstream.co/CFCYFM-MP3"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -833,10 +804,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="https://24283.live.streamtheworld.com/CKDOFMAAC.aac?pname=StandardPlayerV4&amp;pversion=4.19.2-038&amp;dist=triton-web&amp;tdsdk=js-2.9&amp;banners=300x250%2C728x90&amp;sbmid=9ad1cfa7-533c-4b86-ea4f-6be83e38bd20"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="hot899defaultalbumlogo350x350.1582830888.png"
-                  alt="" style="width: 304px; height: 304px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CIHTFM"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -847,9 +816,8 @@ body {
               <td class="codec-aac" height="36">&nbsp;<audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKXGFM"
                   preload="none" controls="controls"></audio></td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="krock987hero.png" alt="" style="width: 249px; height: 212px;"></td>
-              <td class="codec-aac">&nbsp;<audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKXDFM"
-                  preload="none" controls="controls"></audio></td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
@@ -868,14 +836,13 @@ body {
                 </table>
               </td>
               <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;<img src="FLOW_93-5_Logo_2019.png" alt=""
-                  style="width: 149px; height: 205px;"></td>
+              <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;
                 <table>
                   <tbody>
                     <tr>
-                      <td class="codec-aac" height="36"><audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFXJFM"
-                          preload="none" controls="controls"></audio></td>
+                      <td class="codec-aac" height="36"><br>
+                      </td>
                     </tr>
                   </tbody>
                 </table>
@@ -885,9 +852,59 @@ body {
             <tr>
               <td class="source fixed-column" height="36">
                 <p>&nbsp;</p>
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="FLOW_93-5_Logo_2019.png" alt="" style="width: 149px; height: 205px;"></p>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table>
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac" height="36"><audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CFXJFM"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">
+                <p>&nbsp;<img src="krock987hero.png" alt="" style="width: 249px; height: 212px;"></p>
+                <p>&nbsp;</p>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKXDFM"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">
+                <p>&nbsp;<img src="hot899defaultalbumlogo350x350.1582830888.png"
+                    alt="" style="width: 304px; height: 304px;"></p>
+                <p>&nbsp;</p>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CIHTFM"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -896,9 +913,18 @@ body {
             <tr>
               <td class="source fixed-column" height="36">
                 <p>&nbsp;</p>
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="CFCY.png" alt="" style="width: 291px; height: 166px;"></p>
               </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="http://mbsradio.leanstream.co/CFCYFM-MP3"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -906,10 +932,19 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="Uwd1hK0p_400x400.png" alt="" style="width: 221px; height: 221px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1625575029&amp;e=1625589429&amp;h=9db027a62d4c0b17dc0ad228368d2a20"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -917,10 +952,19 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="TrueNorth-Main-RGB.png" alt="" style="width: 266px; height: 49px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://listenlive.vistaradio.ca/CJCD"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -928,10 +972,19 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="radio_cjad.png" alt="" style="width: 248px; height: 263px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://18123.live.streamtheworld.com/CJADAM_SC?DIST=TuneIn&amp;TGT=TuneIn&amp;maxServers=2&amp;gdpr=0&amp;us_privacy=1YNY&amp;partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyNTU3NTQ3NCwiaXNzIjoidGlzcnYifQ._ic2T_F-17zOpNT3hkIuvsQWbJkknrK2fevomNW4aT0"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -939,49 +992,77 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-              </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
+                <p>&nbsp;<img src="logo_radio_london_980.png" alt="" style="width: 282px; height: 141px;"></p>
                 <p>&nbsp;</p>
               </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="http://corus.leanstream.co/CFPLAM-MP3"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="CKBX_country840am_logo.png"
+                  alt="" style="width: 283px; height: 122px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="http://listenlive.vistaradio.ca/CKBX"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
+              <td class="source fixed-column" height="36">&nbsp;<img src="download%20%283%29.png"
+                  alt="" style="width: 182px; height: 182px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36"> <br>
               </td>
+              <td class="codec-aac"> <br>
+              </td>
+              <td class="codec-aac"> <br>
+              </td>
+              <td class="codec-aac"> <br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="cfox-header-1.png"
+                  alt="" style="width: 309px; height: 138px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
               <td class="codec-aac" height="36"> <br>
               </td>
               <td class="codec-aac"> <br>
@@ -992,21 +1073,17 @@ body {
               </td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"> <br>
-              </td>
-              <td class="codec-aac" height="36"> <br>
-              </td>
-              <td class="codec-aac"> <br>
-              </td>
-              <td class="codec-aac"> <br>
-              </td>
-              <td class="codec-aac"> <br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="fbShare%20%287%29.png"
+                  alt="" style="width: 380px; height: 171px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36"><br>
               </td>
@@ -1018,8 +1095,17 @@ body {
               </td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="oceanherologo2018.png"
+                  alt="" style="width: 357px; height: 126px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36"><br>
               </td>
@@ -1031,68 +1117,17 @@ body {
               </td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="News957_600x600.png"
+                  alt="" style="width: 207px; height: 171px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36">&nbsp;</td>
               <td class="codec-aac">&nbsp;</td>
@@ -1100,30 +1135,17 @@ body {
               <td class="codec-aac">&nbsp;</td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac" height="36"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-              <td class="codec-aac"><br>
-              </td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="nc930defaultalbumlogo350x350.1619752832.png"
+                  alt="" style="width: 279px; height: 234px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36"><br>
               </td>
@@ -1135,72 +1157,17 @@ body {
               </td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-              <td class="codec-aac">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="Newstalk_1010.png"
+                  alt="" style="width: 223px; height: 130px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36"><br>
               </td>
@@ -1212,8 +1179,17 @@ body {
               </td>
             </tr>
             <tr>
-              <td class="source fixed-column" height="36">&nbsp;</td>
-              <td class="codec-aac" height="36"><br>
+              <td class="source fixed-column" height="36">&nbsp;<img src="q104_stingrayradio-240x182-logo.png"
+                  alt="" style="width: 222px; height: 168px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
               </td>
               <td class="codec-aac" height="36"><br>
               </td>
@@ -1222,6 +1198,703 @@ body {
               <td class="codec-aac"><br>
               </td>
               <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="radio_am580.png"
+                  alt="" height="108" width="269"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="radio-nl-logo.png"
+                  alt="" style="width: 308px; height: 235px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="RC910weblogo_350x350.png"
+                  alt="" style="width: 223px; height: 242px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="rewind893_stingrayradio-240x182-logo.png"
+                  alt="" style="width: 280px; height: 212px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="WSM_Radio_logo.svg.png"
+                  alt="" style="width: 281px; height: 121px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="download.jfif"
+                  alt="" style="width: 210px; height: 210px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="Citynews-radio_ottawa.svg.png"
+                  alt="" style="width: 275px; height: 99px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="rbi_logo_big.jpg"
+                  alt="" style="width: 257px; height: 144px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="herolog963.png"
+                  alt="" style="width: 285px; height: 134px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio src="https://lax-master1-entry2.leanstream-hd.com:2113/CKRAFM"
+                          preload="none" controls="controls"></audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="CFSX870_localnewsnow_logo.png"
+                  alt="" height="103" width="236"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="CFCB_VOAM_Radio_Logo.png"
+                  alt="" height="116" width="313"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="playerlogo250x90.1554380511.png"
+                  alt="" height="107" width="291"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="cropped-logo_98.1_CHFI-2.png"
+                  alt="" style="width: 191px; height: 179px;"></td>
+              <td class="codec-aac" height="36">&nbsp;
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="auto" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+              <td class="codec-aac">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="1200px-99.9_Virgin_Radio_Logo.svg.png"
+                  alt="" style="width: 182px; height: 171px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td class="source fixed-column" height="36">&nbsp;<img src="604ba68661198f056ad47aea.png"
+                  alt="" style="width: 256px; height: 166px;"></td>
+              <td class="codec-aac" height="36">
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td class="codec-aac" height="36"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+              <td class="codec-aac"><br>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="CJCW_590_logo.png" alt="" style="width: 252px; height: 121px;"></td>
+              <td>
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="am1140.png" alt="" style="width: 249px; height: 78px;"></td>
+              <td>
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="CKLW_AM.png" alt="" style="width: 260px; height: 98px;"></td>
+              <td>
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><img src="kiss925.png" alt="" style="width: 250px; height: 209px;"
+                  id="6665"></td>
+              <td>
+                <table id="table" border="0">
+                  <tbody>
+                    <tr>
+                      <td class="codec-aac"><audio preload="none" controls="controls">
+                        </audio></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+            <tr>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
               </td>
             </tr>
           </tbody>
