@@ -74,7 +74,7 @@ body {
           </thead>
           <tbody>
             <tr>
-              <td class="source fixed-column"> <img src="svg/cknx1.svg" style="width: 223px; height: 223px;">
+              <td class="source fixed-column"> <img src="svg/cknx1.svg" style="width: 261px; height: 261px;">
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac"><audio preload="none" controls="controls"> <source
@@ -89,7 +89,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" style="height: 178.5px;">
-                <p><img src="svg/cfcw829x300.svg" style="width: 303px; height: 106px;"></p>
+                <p><img src="svg/cfcw829x300.svg" style="width: 346px; height: 121px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac"><audio preload="none" controls="controls"> <source
@@ -189,7 +189,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="svg/boom-973-logo.svg" height="148" width="218"></p>
+                <p><img src="svg/boom-973-logo.svg" style="width: 269px; height: 182px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio preload="none" controls="controls">
@@ -333,7 +333,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="svg/991hot.svg" style="width: 270px; height: 236px;"></p>
+                <p><img src="svg/991hot.svg" style="width: 229px; height: 200px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio preload="none" controls="controls">
@@ -350,7 +350,7 @@ body {
             <tr>
               <td class="source fixed-column" height="36">
                 <p><img src="svg/krock975defaultalbumlogo350x350.1585845453.svg"
-                    style="width: 321px; height: 285px;"></p>
+                    style="width: 283px; height: 251px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio preload="none" controls="controls">
@@ -366,7 +366,7 @@ body {
             </tr>
             <tr>
               <td class="source fixed-column" height="36">
-                <p><img src="logo_radio_toronto_640.png" alt="" style="width: 359px; height: 141px;"></p>
+                <p><img src="svg/logo_radio_toronto_640.svg" style="width: 359px; height: 141px;"></p>
                 <p>&nbsp;</p>
               </td>
               <td class="codec-aac" height="36"><audio preload="none" controls="controls">
