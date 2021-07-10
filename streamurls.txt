@@ -1,0 +1,17 @@
+country 100.7     https://ais-sa1.streamon.fm/7226_128k.aac
+Hot Country 103.5  https://ais-sa1.streamon.fm/7738_128k.aac
+Spud FM  https://mbsradio.leanstream.co/CJRWFM-MP3?args=tunein_01
+Big West Country https://icy.jpbgdigital.com/CIBW.aac?player_type=tunein
+Beach Radio https://icy.jpbgdigital.com/CKQQ.aac?player_type=tunein
+CJVR https://delivery-cdn-cf.adswizz.com/audiology_newEnco/ad_0_4f128acd77366674cbb067b66e347302_862c32a8026fd29ed4a35fc369cf2f23_91.mp3
+The Wolf https://aispool.streamon.fm/ais/CFWF.aac
+Fox FM https://aispool.streamon.fm/ais/CFGW.aac
+GX 94 https://aispool.streamon.fm/ais/CJGX.aac
+CJSB https://dns4.83north.ca:8000/cjsb.mp3
+CFAX http://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAM.mp3
+OZFM https://server10.reliastream.com/proxy/nfbroadc?mp=/stream
+Coast https://canada1.reliastream.com/proxy/coastbr1?mp=/stream
+CBC Radio One http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_snf
+Seaside FM http://cassini.shoutca.st:8215/stream
+
+
