@@ -80,7 +80,7 @@ body {
             <tr>
               <td class="source fixed-column">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="svg/cknx1.svg"
-                  style="width: 212px; height: 212px;"> </td>
+                  style="width: 240px; height: 240px;"> </td>
               <td class="codec-aac"><audio preload="none" controls="controls"> <source
                     src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM"
                     type="audio/"> <source src="https://nyc-edge1-entry1.leanstream-hd.com:2113/CKNXAM">
