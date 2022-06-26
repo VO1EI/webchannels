@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqrp87f41z4xn4zp"
+#EXTINF:-1 tvg-chno="1" tvg-id="CBHT(CBCHalifax)(English).ca(m3u4u)" tvg-name="CBC Nova Scotia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14724_dark_360w_270h.png" group-title="TV",CBC Nova Scotia
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1 tvg-id="CTVHalifax(English).ca(m3u4u)" tvg-name="CTV Halifax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10108_dark_360w_270h.png" group-title="TV",CTV Halifax
+https://list.iptvcat.com/my_list/s/fd4b5e830f2c328f6d3646ceb84245d2.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="CJONDT(English).ca(m3u4u)" tvg-name="NTV CJON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72728_dark_360w_270h.png" group-title="TV",NTV CJON
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Circle.us(m3u4u)" tvg-name="Circle" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113430_dark_360w_270h.png" group-title="TV",Circle
+https://v-ny.theus6tv.tk/hls/48.2/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us(m3u4u)" tvg-name="Reelz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="TV",Reelz
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Reelz Now" tvg-logo="https://www.reelznow.com/static/media/reelz-now-sm-reverse.f2481a09.svg" group-title="TV",Reelz Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="MTV.us(m3u4u)" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV",MTV
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Freebie TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/07/53/44/0753449a-a6aa-0b95-cf99-57a92e578f36/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="TV",Freebie TV
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8?ads.plex_token=r9PJXPYRQHqRf2mtfaT6&ads.channel_id=604bf68f499957002d574f45&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us(m3u4u)" tvg-name="Crime + Investigation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="TV",Crime + Investigation
+https://list.iptvcat.com/my_list/s/1a6485a6bf9d9c89195835328b10c6e1.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Rewind(English).ca(m3u4u)" tvg-name="Rewind TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s27126_dark_360w_270h.png" group-title="TV",Rewind TV
+https://v-ny.theus6tv.tk/hls/11.4/playlist.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Revry Queer" tvg-logo="https://static1.squarespace.com/static/5fdbc1d5682ee122a7a5aa20/t/62040f00954cd14ceccf6d88/1654825800709/" group-title="TV",Revry Queer
+https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="WPIXDT2.us(m3u4u)" tvg-name="Antenna TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70248_dark_360w_270h.png" group-title="TV",Antenna TV
+https://v-pi.theus6tv.tk/hls/17.2/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="WJLPDT.us(m3u4u)" tvg-name="MeTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="TV",MeTV
+https://v-ny.theus6tv.tk/hls/33.1/playlist.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="BBCAmerica.us(m3u4u)" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="TV",BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us(m3u4u)" tvg-name="Oxygen HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="TV",Oxygen HD
+https://list.iptvcat.com/my_list/s/b44cba3aa0a22b9af41f5d2efcf3b544.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Vice.us(m3u4u)" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV",Vice
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="AMCStream(East).us(m3u4u)" tvg-name="AMC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92022_dark_360w_270h.png" group-title="TV",AMC East
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Pluto TV Classic Toons TV" tvg-logo="" group-title="TV",Pluto TV Classic Toons TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=562ea53fa9060c5a7d463e74&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=548&terminate=false&userId=
+#EXTINF:-1 tvg-chno="29" tvg-id="Logo.us(m3u4u)" tvg-name="Pluto TV Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="TV",Pluto TV Logo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=187&terminate=false&userId=
+#EXTINF:-1 tvg-chno="31" tvg-id="PlutoTVExplore.uk(m3u4u)" tvg-name="Xplore" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115078_dark_360w_270h.png" group-title="TV",Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="truTV.us(m3u4u)" tvg-name="TruTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV",TruTV
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="TBS.us(m3u4u)" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="American Classics" tvg-logo="https://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png" group-title="TV",American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8?
+#EXTINF:-1 tvg-chno="40" tvg-id="Timeline.uk(m3u4u)" tvg-name="Timeline" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s121657_dark_360w_270h.png" group-title="TV",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="BounceTV.us(m3u4u)" tvg-name="Bounce XL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce XL
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="CONtv.us(m3u4u)" tvg-name="CONtv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110483_dark_360w_270h.png" group-title="TV",CONtv
+https://contv-junction.cinedigm.com/ingest/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Nick (Pluto)" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg/revision/latest?cb=20200527153528" group-title="TV",Nick (Pluto)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="46" tvg-id="IONTelevision(Pacific).us(m3u4u)" tvg-name="ION East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="TV",ION East
+https://v-ny.theus6tv.tk/hls/31.1/playlist.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="PlutoTVHistory.uk(m3u4u)" tvg-name="Pluto History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115085_dark_360w_270h.png" group-title="TV",Pluto History
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="48" tvg-id="IFC.us(m3u4u)" tvg-name="IFC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="TV",IFC East
+https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="PlutoTVSciFi.uk(m3u4u)" tvg-name="Pluto Sci-Fi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115030_dark_360w_270h.png" group-title="TV",Pluto Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="52" tvg-id="PlutoTVCrime.uk(m3u4u)" tvg-name="Pluto True Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115051_dark_360w_270h.png" group-title="TV",Pluto True Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="51" tvg-id="WBZDT.us(m3u4u)" tvg-name="CBS WBZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28711_dark_360w_270h.png" group-title="TV",CBS WBZ
+http://51.161.118.146:8080/ISG03_CBS_BOSTON_MA_WBZ/video.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="WNBCDT.us(m3u4u)" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28717_dark_360w_270h.png" group-title="TV",NBC
+http://51.161.118.146:8080/ISG03_NBC_HARTFORD_CT_WVIT/video.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="WCVBDT(English).ca(m3u4u)" tvg-name="ABC WCVBDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" group-title="TV",ABC WCVBDT
+http://51.161.118.146:8080/ISG03_ABC_BOSTON_MA_WCVB/video.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="KGODT.us(m3u4u)" tvg-name="ABC KGO-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/KGO-TV_logo.svg/1200px-KGO-TV_logo.svg.png" group-title="TV",ABC KGO-DT1
+http://51.161.118.146:8080/ISG03_ABC_SAN_FRANCISCO_CA_KGO/video.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/2560px-FOX_wordmark-orange.svg.png" group-title="TV",FOX
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Game Show Central (Pluto)" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/trademarks/Game_Show_Central_HORIZONTAL.jpg" group-title="TV",Game Show Central (Pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=
+#EXTINF:-1 tvg-chno="58" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Pluto Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="TV",Pluto Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-chno="59" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Weather Spy" tvg-logo="https://v.fastcdn.co/u/ce0680fc/52012155-0-WeatherSpy-Avatar4.jpg" group-title="TV",Weather Spy
+https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="NBCNewsNOW.uk(m3u4u)" tvg-name="NBC News Now" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s114174_dark_360w_270h.png" group-title="TV",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="MSNBC.us(m3u4u)" tvg-name="MSNBC" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRwBYXVw_cFey2xKDlx66rRWVzTaoXc0TMH9NJ_J2s=s900-c-k-c0x00ffffff-no-rj" group-title="TV",MSNBC
+https://list.iptvcat.com/my_list/s/cc20a77bee66f642fb9ee536adf6b398.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="HLN(src01).us(m3u4u)" tvg-name="HLN" tvg-logo="http://assets.stickpng.com/images/5848270acef1014c0b5e49df.png" group-title="TV",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="NHKWorld(src02).uk(m3u4u)" tvg-name="NHK World Japan" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/a4/16/cca41696-9d2f-a427-b6a6-beb1ea4762cd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" group-title="TV",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Global News Halifax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Global_Halifax.png" group-title="TV",Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="GBNews.uk(m3u4u)" tvg-name="GB News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s118853_dark_360w_270h.png" group-title="TV",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="CBCNewsNetwork(English).ca(m3u4u)" tvg-name="CBC News Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png" group-title="TV",CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca(m3u4u)" tvg-name="CTV News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="TV",CTV News Channel
+https://list.iptvcat.com/my_list/s/15b0bf36b7fd97be07d6b5e24606c7cb.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca(m3u4u)" tvg-name="CTV News Channel 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="TV",CTV News Channel 2
+https://list.iptvcat.com/my_list/s/abe9bc7bb647755aeefc8cb483fc4ab6.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="(Dummy Local Programming)(m3u4u)" tvg-name="Reuters Now" tvg-logo="https://www.reuters.com/resizer/PI3YcmEtise9n6pTKMbwoDjynJU=/1200x1200/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4QXBW6RP45FBRHDZQXLNRGX5UY.jpg" group-title="TV",Reuters Now
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="CNNInternational.uk(m3u4u)" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="TV",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="CNN.us(m3u4u)" tvg-name="CNN (Pluto)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="TV",CNN (Pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+#EXTINF:-1 tvg-chno="69" tvg-id="CNN.us(m3u4u)" tvg-name="CNN #2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="TV",CNN #2
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="CNN.us(m3u4u)" tvg-name="CNN #3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="TV",CNN #3
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="ABCNewsNow.us(m3u4u)" tvg-name="ABC News" tvg-logo="https://deadline.com/wp-content/uploads/2020/06/abc-news.jpg?w=681&h=383&crop=1" group-title="TV",ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="CBSNewsStreaming(English).it(m3u4u)" tvg-name="CBSN" tvg-logo="https://cdn.mos.cms.futurecdn.net/E56hRNyMarA6ESgaVJ24Vn-320-80.jpg" group-title="TV",CBSN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="AlJazeeraEnglish.uk(m3u4u)" tvg-name="Al JAzzera" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="TV",Al JAzzera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8?
+#EXTINF:-1 tvg-chno="76" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/1200px-2016_CPAC_logo.svg.png" group-title="TV",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="BUZZR.us(m3u4u)" tvg-name="BUZZR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png" group-title="TV",BUZZR.us
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="CHARGE.us(m3u4u)" tvg-name="Charge!" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/chargenetwork.png" group-title="TV",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="CinePride" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="TV",CinePride
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Cinevault 70s" tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-70s-logo.jpg" group-title="TV",Cinevault 70s
+http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
+#EXTINF:-1 tvg-chno="81" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Cinevault 80s" tvg-logo="https://paultclark.com/tv/cinevault-80s.png" group-title="TV",Cinevault 80s
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
+#EXTINF:-1 tvg-chno="82" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Cinevault Westerns" tvg-logo="https://paultclark.com/tv/cinevault-westerns.png" group-title="TV",Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
+#EXTINF:-1 tvg-chno="83" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" group-title="TV",Crime 360
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Danger TV" tvg-logo="https://pbs.twimg.com/profile_images/981009599850409985/rTzmSoqJ_400x400.jpg" group-title="TV",Danger TV
+https://dangertv-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Hallmark Movies" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_logotype.png" group-title="TV",Hallmark Movies
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="86" tvg-id="LoveNature(src01).ca(m3u4u)" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV",Love Nature
+https://amg00090-bamusa-lovenature-rokuus-jns5s.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="LoveNature(src01).ca(m3u4u)" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="89" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Paramount Movie Channel" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="TV",Paramount Movie Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="90" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="The Bob Ross Channel" tvg-logo="https://variety.com/wp-content/uploads/2020/04/bob-ross-the-joy-of-painting.png" group-title="TV",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="TurnerClassicMovies(English).ca(m3u4u)" tvg-name="Turner Classic Movies East" tvg-logo="https://img.favpng.com/17/23/23/turner-classic-movies-television-channel-turner-broadcasting-system-pay-television-png-favpng-TiTybgDTqCFHR2cLgJEPYbkPV.jpg" group-title="TV",Turner Classic Movies East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="TurnerClassicMovies.us(m3u4u)" tvg-name="Turner Classic Movies West" tvg-logo="https://img.favpng.com/17/23/23/turner-classic-movies-television-channel-turner-broadcasting-system-pay-television-png-favpng-TiTybgDTqCFHR2cLgJEPYbkPV.jpg" group-title="TV",Turner Classic Movies West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="(Dummy Programming)(m3u4u)" tvg-name="Clarity 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYMJT4yiHegF_Ykb3bl1rBwRhkdOv-MOV-O4K0WTRN3B1DuqpM7IMiy-X0UQU61c00DM&usqp=CAU" group-title="TV",Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
